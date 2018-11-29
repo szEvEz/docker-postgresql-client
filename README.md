@@ -1,5 +1,5 @@
 # Basic docker-postgresql-client
 
 ```sh
-docker run -it szevez/docker-postgresl-client:latest sh
+docker run -it szevez/docker-postgresql-client:latest sh
 ```
